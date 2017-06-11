@@ -1,0 +1,49 @@
+V1.7:
+- Interface change, now there are icons, and progress bars for percentages
+- The power percentage bar was moved below the map
+- The Info window is separate from the rest and the power bar was moved
+- Added BubbleHelp thanks to Marco Nelissen's source
+- Added ability to zoom inside the map (still quite buggy, you really shouldn't use it :-)
+- Game calculation doesn't stop  while dragging with the mouse...
+- W6 won't crash anymore if flags or title pic are missing.
+- Optimized "multiply routine" to speed up display when country conquered
+- Several optimizations in display routines.
+- And so many little bugs....
+- Speed up settings don't make the game as unplayable as it did...
+- Added sound support (but only startup sounds exists for the only running scenario)
+
+V1.5:
+- Removed bug when finding distance on non-existent country crashed.
+- Removed setting screen back to wrong resolution when exiting.
+- Changed Infantry from int to long (did not allow sending millions of men).
+- Removed bug in buy window which didn't let your buy airforce unless you had ten times the money.
+- First window (for choosing party) is no longer resizable
+- Removed bug that made sea and border act as countries of pacific group
+- Added group_military_power bar
+- Population should be displaying OK in China
+- Removed bug that didn't bring conquered groups to their occupants
+- An agressor that is too weak gets captured (less than 5x the strength)
+- Now countries have secondary ennemies, for example when Fascism, Kingdoms and Theocracies are over, democracy will fight communism
+-Removed Bug when hitting return instead of clicking send/buy buttons caused the game to crash
+- Windows now scroll to the right limit and not further
+- Help menu can now open documentation in Netpositive directly (thx Marc)
+- Now maps get only updated on the appropriate region, really much faster.
+- Added lots of features in the EDITOR WINDOW, still unable to save however
+- Right mouse button now, drags the map view instead of selecting an unexisting country and beeping ;-)
+- Added Retreat
+- Not changing resolutions anymore, windows are cool... and safe ;-).
+- Interface is kind of scalable (info-view on the left)
+- When a country is conquered and is one of its victim's first agressor, then the troops retreat (they're captured by the conquerer). Watch your back!
+- The higher the repression level your politic has, the higher is the risk of revolution in case of low moral
+- Strength of the resistance attacks depends on propaganda of original group's politic
+- Game ends when different groups with a unique politic rule the world.
+- Selected country's flags changes immediately if it's been conquered by another group.
+- Separated some things into different threads. Now overall more responsive.
+- Removed those ugly scrollbars. Now map-scrolling is done via the right mouse button.
+- Added some shortcuts (see documentation).
+- Added personalized cursors.
+- Removed bug that caused the editor to crash when updating if no group or politic was selected.
+- If a country can't attack anyone but can buy its minimum defense troops, it will send part of its army to the weakest country in its group.
+- And of course, switch to the ELF format. This program will now require BeOS R4 at least (on Intel). The new compiler found 497 (!) errors and 
+warnings... thanks, Mr. GNU for having reminded me some rules.
+

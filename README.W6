@@ -1,0 +1,44 @@
+W6 
+or What Went Wrong, its a World Wide War!
+
+
+
+A stupid and lousy wargame for the BeOS 
+by Santiago (=Jacques) Lema  (santiago.lema@cryogen.ch)
+
+
+Requirements:
+Pentium 200 looks OK but less (or more!) should do it also.
+BeOS R4 or more
+8 megs of RAM available, up to 16 if text output goes on for a whole night!
+One brain (ISO 9001)
+
+
+Known Bugs/Problems:
+- It happens to crash from time to time ;-)
+- "Start a new Game Menu" LOAD ans SAVE disabled.
+
+ToDo:
+- Allow saving and loading scenarios, so that I can add WW1 and WW2, maybe WW3 and Defender of the Crown ;-), or so that you can create your scenarios, with your own maps.
+
+For their help and kindness, big thanx go to:
+- Marc Abramson
+- Bjorn Tornqvist
+- Edmund Vermeulen
+- Sean Heber for classSound & classSoundMaster (used in this software).
+- This program uses BubbleHelp from Marco Nelissen
+
+Legal issues 
+(This is only in case you're American and would sue your own mother :-):
+THIS SOFTWARE IS PROVIDED WITHOUT ANY GUARANTEE. ALTHOUGH I DIDN'T DO ANYTHING FOR IT TO DO SO. IT COULD AS WELL, DAMAGE YOUR DATA, INSTALL WINDOWS 98 WITH NO UNINSTALL OPTION, CAUSE A RECTAL EXPLOSION OR ANYTHING BAD. USE AT YOUR OWN RISK.
+But mainly, it is just a game.
+
+Frequently Asked Questions:
+Q:  What is BeOS?
+A:  Funny guy eh? See http://www.be.com .
+
+Q:  Is there a Windows version available?
+A:  Of course, all you have to do is format your Windows partition (backup your data before ;-) and install BeOS instead.
+
+Q:  What is the meaning of life?
+A:  God created us to make use of the BeOS. Amen.
