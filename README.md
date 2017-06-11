@@ -1,6 +1,5 @@
 # W6
-What Went Wrong? It's a World Wide War
- 
+What Went Wrong? It's a World Wide War 
 
 License: Freeware (unknown)
 Author: Santiago Lema (jacques@link-u.com)
