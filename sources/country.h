@@ -163,7 +163,7 @@ public:
 	Country(const char *name,char couleur_num,char group, Day *compteur,Group *Group_id[MAX_GROUP], Country *Country_id[MAX_COUNTRY],Politic *Politic_id[MAX_POLITIC],Weapon *Weapon_id[MAX_WEAPON]); 	// col_dans pal + groupe
 	Country(BMessage *archive);
 	
-	BArchivable *Country::Instantiate(BMessage *archive); 
+	BArchivable *Instantiate(BMessage *archive); 
 
 	int16 TravelTime(Country* to_which_country);
 	void AddAttack(uint8 victim_id);

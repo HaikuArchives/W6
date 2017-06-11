@@ -32,10 +32,10 @@ InfoView::InfoView(BRect r, Country *Country_id[MAX_COUNTRY],Group *Group_id[MAX
 //------------------------
 
 
-BRect r;
-r.Set(0,0,Bounds().Width()-2,100);
-grpwin = new GroupWindow(r,_country,_group,_politic,_jour);
-grporiwin = new GroupWindow(r,_country,_group,_politic,_jour);
+BRect r2;
+r2.Set(0,0,Bounds().Width()-2,100);
+grpwin = new GroupWindow(r2,_country,_group,_politic,_jour);
+grporiwin = new GroupWindow(r2,_country,_group,_politic,_jour);
 grporiwin->Show();
 grpwin->Show();
 

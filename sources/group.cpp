@@ -9,7 +9,7 @@
 #include <Alert.h>
 #include <stdio.h>
 
-#include <iostream.h>
+#include <iostream>
 
 /**** Constructeurs Groupe ****/
 Group::Group(unsigned char pl,const char *name, unsigned char numero, rgb_color col, unsigned char polit,char fname[255], Day *compteur)

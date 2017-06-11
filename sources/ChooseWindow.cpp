@@ -5,7 +5,7 @@
 #include "day.h"
 
 #include <Message.h>
-#include <iostream.h>
+#include <iostream>
 
 ChooseWindow::ChooseWindow(Country *Country_id[MAX_COUNTRY],Group *Group_id[MAX_GROUP], Day *compteur)
 : BWindow(_jour->find_win_pos(584,300),"Choose-Window", B_MODAL_WINDOW, B_NOT_ZOOMABLE | B_NOT_RESIZABLE )

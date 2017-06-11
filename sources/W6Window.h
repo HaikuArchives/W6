@@ -2,7 +2,8 @@
 #define MAIN_WINDOW_H
 
 #include "def_col.h" //POUR GRP_X
-#include "Window.h"
+#include <Window.h>
+#include <FilePanel.h>
 
 class Day;
 class Country;
