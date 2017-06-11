@@ -46,6 +46,8 @@ public:
 	
 		InfoView(BRect r, Country *Country_id[MAX_COUNTRY],Group *Group_id[MAX_GROUP],Politic *Politic_id[MAX_POLITIC], Day *compteur);
 		virtual	~InfoView();
+		
+		virtual void AttachedToWindow();
 
 		void	CreateButton(int32 enabled_id ,int32 disabled_id);
 		void	MouseDown(BPoint where);

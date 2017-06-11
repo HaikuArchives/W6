@@ -233,8 +233,6 @@ AddChild(ennemy4_view);
 
 		
 
-UpdateCountryInfo();
-
 }
 
 InfoView::~InfoView()
@@ -253,6 +251,11 @@ if (_jour->edit_mode==ON && point.y<80)
 	    colWindow ->Unlock();	
 	}
 
+}
+
+void InfoView::AttachedToWindow()
+{
+	UpdateCountryInfo();
 }
 
 
