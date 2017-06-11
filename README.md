@@ -1,4 +1,7 @@
 # W6
+
+![W6](https://raw.githubusercontent.com/miqlas/W6/60629a680630a70a382751357812cff862d5ef89/help/title_sm.jpg)
+
 What Went Wrong? It's a World Wide War 
 
 License: Freeware (unknown)
