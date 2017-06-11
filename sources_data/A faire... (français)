@@ -1,0 +1,30 @@
+- avec le zoom on arrive pas à dragger plus loins que la taille originale
+- Finddistance en km est complètement faux...
+
+
+
+//SUGGESTION Décentes des users...
+
+>Cool game but i found one major bug. If you click on a 
+>country and put a negative sign in front of the infantry or 
+>anything you want to send, it does just the opposite and 
+>gives you that many. I stormed the USA the first 3 seconds 
+>of the game with: 10000000000 infantry 40000 tanks 500000 
+>marines 120000000 airforce.. Also a sugestion is how about 
+>adding one more race? (Clown Revolution) teeheehee. keep Up 
+>the good work
+
+
+>I was just thinking that the interface might improve, if the small 
+>status window would be integrated into the main window. Maybe next to 
+>the daily war reports. Looks like there is still some unused space. It 
+>gets a bit stressy if you constantly have to move this window around.
+
+I agree with that, I think I'll implement a full screen mode in which the status window will be attached as you required.
+
+>I was also thinking if it would be a good idea to automatically pause 
+>the game at defined intervals ( maybe every 7 days) to make buying 
+>tanks and infantry a bit less hectic. I´m thinking of something like 
+>the Budget window that pops up at the end of the year in Sim City 2000.
+
+Yes I think this would be a good idea. It makes thinking about strategy a bit harder if you spend your time buying things while things happen all around. I'll add it to my list. Maybe I'll set this as an option so that people can still use the real-time mode.
