@@ -24,9 +24,13 @@
 #include <string.h>
 #include <stdlib.h>
 
+#include <iostream.h>
+
 #include "BubbleHelper.h"
 #include <InterfaceDefs.h>
 #include <Rect.h>
+#include <Menu.h> 
+#include <Alert.h> 
 
 class BWindow;
 

@@ -2,6 +2,8 @@
 #define INFOVIEW_H
 
 #include <View.h>
+#include <PictureButton.h>
+
 #include "def_col.h"
 
 class Country;

@@ -25,6 +25,7 @@
 #define _BUBBLEHELPER_H
 
 #include <OS.h>
+#include <TextView.h>
 
 class BubbleHelper
 {

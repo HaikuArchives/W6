@@ -4,6 +4,7 @@
 #include "Window.h"
 #include "def_col.h"
 
+
 class Day;
 class Country;
 class BStringView;

@@ -295,7 +295,7 @@ BBitmap *W6Application::LoadBitmap(const char *filename)
 	result = BTranslationUtils::GetBitmapFile(filename);
  
 	// info
-	cout << "chargement image : " << filename << " resultat : " << (int32)result << endl;
+	//cout << "chargement image : " << filename << " resultat : " << (int32)result << endl;
 	
   	return result;
 }

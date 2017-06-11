@@ -12,7 +12,6 @@
 #include <Application.h>
 #include <ScrollView.h>
 
-#include <iostream.h>
 
 const pattern stripes = {0xc7,0x8f,0x1f,0x3e,0x7c,0xf8,0xf1,0xe3};
 
@@ -438,7 +437,7 @@ void MapView::ErasePlayerLine()
 /**** Affichage en couleur des pays ****/
 void MapView::MultiplyCountrySelected()
 {
-cout << "select Country" << endl;
+//cout << "select Country" << endl;
 	if(_currentCountry==NO_COUNTRY_SELECTED)
 		return;
 

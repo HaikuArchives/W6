@@ -74,7 +74,7 @@ void Group::load_bmp()
 		alertMessage << app_path.String();
 		
 		// info
-		cout << alertMessage.String() << endl;
+	//	cout << alertMessage.String() << endl;
 		
 		flag_ptr = ((W6Application *)be_app)->LoadBitmap(app_path.String());
 	}

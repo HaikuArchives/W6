@@ -4,6 +4,7 @@
 #include <Application.h>
 #include "def_col.h"       //creation des pays
 #include <String.h>
+#include <Bitmap.h>
 
 class Country;
 class Politic;

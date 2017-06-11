@@ -3,7 +3,14 @@
 
 #include <View.h>
 #include <String.h>
+#include <iostream>
+
 #include "def_col.h"
+
+
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
 
 class Country;
 class Politic;

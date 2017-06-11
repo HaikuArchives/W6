@@ -2,6 +2,8 @@
 #define ORDER_WINDOW_H
 
 #include "Window.h"
+#include "country.h"
+#include <TextControl.h>
 
 class Day;
 class Country;

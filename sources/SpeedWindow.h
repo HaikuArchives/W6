@@ -2,11 +2,14 @@
 #define SPEED_WINDOW_H
 
 #include <Window.h>
+#include <InterfaceDefs.h>
+
 
 class Day;
 class BStringView;
 class BTextControl;
 class BButton;
+class BSlider;
 
 #define SPEED_CHANGED 'spdc'	
 
