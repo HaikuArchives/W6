@@ -141,7 +141,7 @@ char *BubbleHelper::GetHelp(BView *view)
 }
 
 
-int BubbleHelper::_helper(void *arg)
+status_t BubbleHelper::_helper(void *arg)
 {
     ((BubbleHelper*)arg)->Helper();
     return 0;
